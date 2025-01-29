@@ -1,3 +1,5 @@
 # Interactive_dashboard_example_with_bash
-Here is an example of a repository of advertising performance by country using dash and matplot. 
-The dashboard is also connected to an aws S3 and web domain so it will be posible to visualize the data using multiple devices.
+
+This repository provides an example of an interactive dashboard for analyzing advertising performance by country using Dash and Matplotlib.
+
+The dashboard is integrated with AWS S3 for data storage and is hosted on a web domain, allowing seamless data visualization across multiple devices.
